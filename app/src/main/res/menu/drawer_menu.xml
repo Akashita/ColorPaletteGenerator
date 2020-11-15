@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/saved_color_button"
+        android:icon="@drawable/ic_baseline_save_alt_24"
+        android:title="@string/saved_color_button" />
+    <item
+        android:id="@+id/credits"
+        android:icon="@drawable/ic_baseline_more_horiz_24"
+        android:title="@string/credits" />
+</menu>

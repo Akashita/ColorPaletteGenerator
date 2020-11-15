@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Color Palette Generator</string>
+    <string name="color_code"></string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="extended_fab_content">Generate</string>
+    <string name="save_dialog_title">Are you sure you want to save this palette ?</string>
+    <string name="create_dialog_title">New palette color</string>
+    <string name="dialog_positive_button">yes</string>
+    <string name="dialog_negative_button">no</string>
+    <string name="dialog_create_button">create</string>
+    <string name="dialog_cancel_button">cancel</string>
+    <string name="label">Add a label ?</string>
+    <string name="select_color">Choose a color</string>
+    <string name="bg">Forest background</string>
+    <string name="credits">Credits</string>
+    <string name="saved_color_button">Saved palettes</string>
+    <string name="credits_content">This app was created by Swan Launay for a project at University Savoie Mont-Blanc.\n\n
+        All this work is under the GNU GPLv3 licence.\n\n
+        The source code is available on github : <a href="https://github.com/Akashita/ColorPaletteGenerator">https://github.com/Akashita/ColorPaletteGenerator</a>\n
+    </string>
+</resources>
